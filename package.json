@@ -1,0 +1,32 @@
+{
+  "name": "html-webpack-hash-version-plugin",
+  "version": "1.0.2",
+  "description": "Append hash version for assets in generated html file",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leovo2708/html-webpack-hash-version-plugin.git"
+  },
+  "keywords": [
+    "webpack",
+    "plugin",
+    "html-webpack-plugin",
+
+    "caching",
+    "hash",
+    "version"
+  ],
+  "author": "Leo Vo <leovo2708@gmail.com> (https://github.com/leovo2708)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leovo2708/html-webpack-hash-version-plugin/issues"
+  },
+  "homepage": "https://github.com/leovo2708/html-webpack-hash-version-plugin",
+  "peerDependencies": {
+    "html-webpack-plugin": "^2.0.0 || ^3.0.0",
+    "webpack": "^1.0.0 || ^2.0.0 || ^3.0.0 || ^4.0.0"
+  }
+}
